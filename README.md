@@ -28,4 +28,4 @@ Users can add patients, view patients and doctors, and book appointments.
 2. Create database:
 ```sql
 
-#image: <img width="1860" height="964" alt="image" src="https://github.com/user-attachments/assets/e324209e-24d7-40fe-b474-bca92d79200f" />
+<img src="https://github.com/user-attachments/assets/e324209e-24d7-40fe-b474-bca92d79200f" width="800"/>
